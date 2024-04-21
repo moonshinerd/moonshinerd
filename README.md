@@ -5,6 +5,7 @@
 - 🥅 2024 Goals: Dive into more open source projects and delve into software architecture.
 - 📫 Reach me: vitorhls15@gmail.com
 - 😄 Pronouns: He/Him
+- 💡 Fun fact: I'm also involved in a PIBIC research on Mobile Learning and Generative Artificial Intelligence!
 
 ### Languages and tools I'm using and studying:
 
@@ -15,10 +16,6 @@
   <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/programming%20languages/c.svg"/>
   <img align="left" alt="vscode" width="40px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/042e36c55d4d757621dedc4f03108213fbb57ec4/text%20editors/vscode.svg"/>
 
-  
-  
+<br/><br/>
 
-<br/>
-
-
-[![Víctor's github stats](https://github-readme-stats.vercel.app/api?username=moonshinerd&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Víctor's github stats](https://github-readme-stats.vercel.app/api?username=moonshinerd&theme=radical&count_private=true&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
