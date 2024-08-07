@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🌱 Currently diving deep into Spring<br/>
+  🌱 Currently diving deep into django<br/>
   👯 Open to collaborations on Python projects<br/>
   🥅 2024 Goals: Dive into more open source projects and delve into software architecture.<br/>
   😄 Pronouns: He/Him<br/>
