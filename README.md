@@ -19,6 +19,7 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/>
   <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA"/>
