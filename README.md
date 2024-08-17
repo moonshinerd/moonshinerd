@@ -18,17 +18,18 @@
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/>
-  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="35" height="35"/>
+  <img width="35" height="35" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/>
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" width="35" height="35"/>
+  <img src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" width="35" height="35"/>
+  <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ IDEA" width="35" height="35"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="35" height="35"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="35" height="35"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="35" height="35"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="35" height="35"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="35" height="35"/>
 </p>
+
 
 ---
 
