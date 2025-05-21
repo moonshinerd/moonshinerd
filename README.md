@@ -8,9 +8,8 @@
 <p align="center">
   🌱 Currently diving deep into django<br/>
   👯 Open to collaborations on Python projects<br/>
-  🥅 2024 Goals: Dive into more open source projects and delve into software architecture.<br/>
+  🥅 2025 Goals: Dive into more open source projects and delve into software architecture.<br/>
   😄 Pronouns: He/Him<br/>
-  💡 Fun fact: I'm also involved in a PIBIC research on Mobile Learning and Generative Artificial Intelligence!<br/>
 </p>
 
 ---
