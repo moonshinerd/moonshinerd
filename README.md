@@ -33,13 +33,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moonshinerd&theme=algolia&show_icons=true&count_private=true&hide=issues" alt="Víctor's GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonshinerd&theme=algolia&layout=compact" alt="Top Languages">
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moonshinerd&theme=algolia" alt="Profile Details">
 </p>
