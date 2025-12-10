@@ -2,30 +2,22 @@
   <h1>Víctor Schmidt</h1>
   <h3>Software Engineer | AI Developer</h3>
   
-  <a href="https://www.linkedin.com/in/victor-limaschmidt">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vitorhls15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/moonshinerd">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://www.linkedin.com/in/victor-limaschmidt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:vitorhls15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/moonshinerd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Conversational+AI+Systems;RAG+%7C+FastAPI+%7C+Django;Vector+Databases+%26+Distributed+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Building+AI+Systems;RAG+%7C+GraphRAG+%7C+Fine-tuning;Building+Full-stack+Sites;React+%7C+Next.js+%7C+JavaScript;FastAPI+%7C+Django+%7C+Spring+Boot;PostgreSQL+%7C+MySQL+%7C+Weaviate+%7C+Qdrant" alt="Typing SVG" />
 </div>
-
 
 ## About
 
 Software Engineering student at UnB specializing in conversational AI systems and distributed computing. Currently working as an AI Engineer at BRISA, developing RAG architectures with vector databases and building scalable API solutions with Python frameworks.
 
-**Focus areas:** Retrieval-Augmented Generation, API design, distributed systems, and backend development.
-
+**Focus areas:** Retrieval-Augmented Generation, API design, and full-stack development with backend specialization.
 
 
 ## Tech Stack
@@ -36,32 +28,8 @@ Software Engineering student at UnB specializing in conversational AI systems an
   <img src="https://skillicons.dev/icons?i=fastapi,django,spring,postgres,mysql,sqlite" />
   <br>
   <img src="https://skillicons.dev/icons?i=react,docker,kubernetes,git,linux,azure" />
+  <br>
 </div>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <b>AI & ML</b><br>
-      OpenAI API • LangChain<br>
-      RAG • GraphRAG<br>
-      Qdrant • Weaviate
-    </td>
-    <td align="center" width="33%">
-      <b>Backend</b><br>
-      FastAPI • Django REST<br>
-      Spring Boot • gRPC<br>
-      Microservices
-    </td>
-    <td align="center" width="33%">
-      <b>Distributed Systems</b><br>
-      Apache Spark • Hadoop<br>
-      Kubernetes • Docker<br>
-      Multi-tenancy
-    </td>
-  </tr>
-</table>
 
 
 ## GitHub Statistics
@@ -84,5 +52,3 @@ Software Engineering student at UnB specializing in conversational AI systems an
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moonshinerd/moonshinerd/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/moonshinerd/moonshinerd/output/github-contribution-grid-snake.svg">
 </picture>
-
-
