@@ -33,9 +33,10 @@ Software Engineering student at UnB specializing in conversational AI systems an
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [ContrarIA](https://github.com/moonshinerd/ContrarIA) | AI that helps people judge how reliable a piece of information is, without replacing their critical thinking | Python |
-| [dynamic-dashboard-api](https://github.com/moonshinerd/dynamic-dashboard-api) | REST API for maintenance KPIs grouped by equipment family | TypeScript · NestJS · Prisma · MySQL |
-| [nano-challenge-spotify-dataset-g9](https://github.com/moonshinerd/nano-challenge-spotify-dataset-g9) | Exploratory analysis and music profiling over ~114k Spotify tracks | Python |
+| [Trokim](https://github.com/moonshinerd/trokim) · [docs](https://moonshinerd.github.io/trokim/) | Open-source personal finance assistant: parses your transactions, tracks budgets and answers questions through a RAG-powered chat | Python · FastAPI · RAG |
+| [ContrarIA](https://github.com/moonshinerd/ContrarIA) | AI that helps people judge how reliable a piece of information is, without replacing their critical thinking | Python · LLMs |
+| [RecomeçoRS](https://github.com/moonshinerd/RSRevive-MaratonaRS) | Hackathon platform to help Rio Grande do Sul flood victims get back on their feet with courses, jobs and volunteer work | JavaScript |
+| [Interface PI1](https://github.com/moonshinerd/interface-pi1) | Live dashboard that receives and plots telemetry from water rocket launches | Python · Django |
 
 ## GitHub Activity
 
