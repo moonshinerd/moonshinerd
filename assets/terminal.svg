@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="341" viewBox="0 0 780 341" role="img" aria-label="Terminal: Víctor Schmidt, Software Engineer and AI Developer">
+<style>
+  text { font-family: 'Fira Code','JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace; font-size:15px; white-space:pre; }
+  .glow { animation: glow 3s ease-in-out infinite; }
+  @keyframes glow { 0%,100% { stroke:#bb9af7; } 50% { stroke:#7aa2f7; } }
+</style>
+<defs>
+<clipPath id="c0"><rect x="22" y="41" width="0" height="25"><animate attributeName="width" dur="12.43s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0483;0.0535;0.0588;0.0640;0.0692;0.0744;0.0797" values="0.0;198.0;207.0;216.0;225.0;234.0;243.0;252.0"/></rect></clipPath>
+<clipPath id="c1"><rect x="22" y="66" width="0" height="25"><animate attributeName="width" dur="12.43s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1078" values="0.0;477.0"/></rect></clipPath>
+<clipPath id="c2"><rect x="22" y="91" width="0" height="25"><animate attributeName="width" dur="12.43s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1280;0.1332;0.1384;0.1437;0.1489;0.1541;0.1594;0.1646;0.1698;0.1751;0.1803;0.1855;0.1907;0.1960;0.2012;0.2064" values="0.0;198.0;207.0;216.0;225.0;234.0;243.0;252.0;261.0;270.0;279.0;288.0;297.0;306.0;315.0;324.0;333.0"/></rect></clipPath>
+<clipPath id="c3"><rect x="22" y="116" width="0" height="25"><animate attributeName="width" dur="12.43s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2346" values="0.0;450.0"/></rect></clipPath>
+<clipPath id="c4"><rect x="22" y="141" width="0" height="25"><animate attributeName="width" dur="12.43s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2547;0.2600;0.2652;0.2704;0.2757;0.2809;0.2861;0.2913;0.2966;0.3018;0.3070" values="0.0;198.0;207.0;216.0;225.0;234.0;243.0;252.0;261.0;270.0;279.0;288.0"/></rect></clipPath>
+<clipPath id="c5"><rect x="22" y="166" width="0" height="25"><animate attributeName="width" dur="12.43s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3352" values="0.0;513.0"/></rect></clipPath>
+<clipPath id="c6"><rect x="22" y="191" width="0" height="25"><animate attributeName="width" dur="12.43s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3553" values="0.0;468.0"/></rect></clipPath>
+<clipPath id="c7"><rect x="22" y="216" width="0" height="25"><animate attributeName="width" dur="12.43s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3755;0.3807;0.3859;0.3911;0.3964;0.4016;0.4068;0.4121;0.4173;0.4225;0.4278;0.4330;0.4382;0.4435;0.4487" values="0.0;198.0;207.0;216.0;225.0;234.0;243.0;252.0;261.0;270.0;279.0;288.0;297.0;306.0;315.0;324.0"/></rect></clipPath>
+<clipPath id="c8"><rect x="22" y="241" width="0" height="25"><animate attributeName="width" dur="12.43s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4769" values="0.0;459.0"/></rect></clipPath>
+<clipPath id="c9"><rect x="22" y="266" width="0" height="25"><animate attributeName="width" dur="12.43s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4970" values="0.0;414.0"/></rect></clipPath>
+</defs>
+<rect class="glow" x="1.5" y="1.5" width="777" height="338" rx="12" fill="#1a1b26" stroke-width="1.5"/>
+<path d="M1.5 34 V13.5 a12 12 0 0 1 12 -12 H766.5 a12 12 0 0 1 12 12 V34 Z" fill="#16161e"/>
+<circle cx="22" cy="18" r="6" fill="#f7768e"/>
+<circle cx="42" cy="18" r="6" fill="#e0af68"/>
+<circle cx="62" cy="18" r="6" fill="#9ece6a"/>
+<text x="390.0" y="23" text-anchor="middle" fill="#565f89" style="font-size:13px">victor@moonshinerd: ~</text>
+<text x="22" y="58" textLength="252.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c0)"><tspan fill="#9ece6a">victor</tspan><tspan fill="#565f89">@</tspan><tspan fill="#7aa2f7">moonshinerd</tspan><tspan fill="#c0caf5">:~$ </tspan><tspan fill="#c0caf5">whoami</tspan></text>
+<text x="22" y="83" textLength="477.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c1)"><tspan fill="#bb9af7">Víctor Schmidt</tspan><tspan fill="#c0caf5">  ·  Software Engineer  ·  AI Developer</tspan></text>
+<text x="22" y="108" textLength="333.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c2)"><tspan fill="#9ece6a">victor</tspan><tspan fill="#565f89">@</tspan><tspan fill="#7aa2f7">moonshinerd</tspan><tspan fill="#c0caf5">:~$ </tspan><tspan fill="#c0caf5">cat ./focus.txt</tspan></text>
+<text x="22" y="133" textLength="450.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c3)"><tspan fill="#ff9e64">RAG</tspan><tspan fill="#565f89">  ·  </tspan><tspan fill="#ff9e64">GraphRAG</tspan><tspan fill="#565f89">  ·  </tspan><tspan fill="#ff9e64">Fine-tuning</tspan><tspan fill="#565f89">  ·  </tspan><tspan fill="#ff9e64">scalable APIs</tspan></text>
+<text x="22" y="158" textLength="288.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c4)"><tspan fill="#9ece6a">victor</tspan><tspan fill="#565f89">@</tspan><tspan fill="#7aa2f7">moonshinerd</tspan><tspan fill="#c0caf5">:~$ </tspan><tspan fill="#c0caf5">ls ./stack</tspan></text>
+<text x="22" y="183" textLength="513.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c5)"><tspan fill="#7dcfff">python/  fastapi/  django/  typescript/  react/  next.js/</tspan></text>
+<text x="22" y="208" textLength="468.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c6)"><tspan fill="#7dcfff">postgres/  mysql/  qdrant/  weaviate/  docker/  k8s/</tspan></text>
+<text x="22" y="233" textLength="324.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c7)"><tspan fill="#9ece6a">victor</tspan><tspan fill="#565f89">@</tspan><tspan fill="#7aa2f7">moonshinerd</tspan><tspan fill="#c0caf5">:~$ </tspan><tspan fill="#c0caf5">./status --now</tspan></text>
+<text x="22" y="258" textLength="459.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c8)"><tspan fill="#9ece6a">[ok] </tspan><tspan fill="#c0caf5">AI Engineer @ BRISA</tspan><tspan fill="#9ece6a">   [ok] </tspan><tspan fill="#c0caf5">Software Eng. @ UnB</tspan></text>
+<text x="22" y="283" textLength="414.0" lengthAdjust="spacingAndGlyphs" clip-path="url(#c9)"><tspan fill="#ff9e64">[..] </tspan><tspan fill="#c0caf5">shipping ContrarIA: AI vs. misinformation</tspan></text>
+<g opacity="0"><animate attributeName="opacity" dur="12.43s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5171" values="0;1"/><text x="22" y="308" textLength="198.0" lengthAdjust="spacingAndGlyphs"><tspan fill="#9ece6a">victor</tspan><tspan fill="#565f89">@</tspan><tspan fill="#7aa2f7">moonshinerd</tspan><tspan fill="#c0caf5">:~$ </tspan></text></g>
+<g opacity="0"><animate attributeName="opacity" dur="12.43s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5171" values="0;1"/><rect x="220.0" y="294" width="9.0" height="18" fill="#bb9af7"><animate attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite" calcMode="discrete"/></rect></g>
+</svg>

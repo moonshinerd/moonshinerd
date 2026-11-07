@@ -1,16 +1,16 @@
 <div align="center">
-  <h1>Víctor Schmidt</h1>
-  <h3>Software Engineer | AI Developer</h3>
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=170&section=header&text=V%C3%ADctor%20Schmidt&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="Víctor Schmidt" width="100%"/>
+
   <a href="https://www.linkedin.com/in/victor-limaschmidt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:vitorhls15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/moonshinerd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=moonshinerd&style=for-the-badge&color=bb9af7&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Building+AI+Systems;RAG+%7C+GraphRAG+%7C+Fine-tuning;Building+Full-stack+Sites;React+%7C+Next.js+%7C+JavaScript;FastAPI+%7C+Django+%7C+Spring+Boot;PostgreSQL+%7C+MySQL+%7C+Weaviate+%7C+Qdrant" alt="Typing SVG" />
+  <img src="./assets/terminal.svg" alt="victor@moonshinerd:~$ whoami" width="780"/>
 </div>
 
 ## About
@@ -19,36 +19,34 @@ Software Engineering student at UnB specializing in conversational AI systems an
 
 **Focus areas:** Retrieval-Augmented Generation, API design, and full-stack development with backend specialization.
 
-
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,c,cpp,cs,html,css" />
   <br>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,spring,postgres,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,spring,nodejs,nestjs,react,nextjs" />
   <br>
-  <img src="https://skillicons.dev/icons?i=react,docker,kubernetes,git,linux,azure" />
-  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma,docker,kubernetes,git,linux,azure" />
 </div>
 
+## Featured Projects
 
-## GitHub Statistics
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [ContrarIA](https://github.com/moonshinerd/ContrarIA) | AI that helps people judge how reliable a piece of information is, without replacing their critical thinking | Python |
+| [dynamic-dashboard-api](https://github.com/moonshinerd/dynamic-dashboard-api) | REST API for maintenance KPIs grouped by equipment family | TypeScript · NestJS · Prisma · MySQL |
+| [nano-challenge-spotify-dataset-g9](https://github.com/moonshinerd/nano-challenge-spotify-dataset-g9) | Exploratory analysis and music profiling over ~114k Spotify tracks | Python |
+
+## GitHub Activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=moonshinerd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=moonshinerd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moonshinerd&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph"/>
+  <img src="https://streak-stats.demolab.com?user=moonshinerd&theme=tokyonight&hide_border=true&background=0d1117&ring=bb9af7&fire=ff9e64&currStreakLabel=bb9af7" alt="GitHub streak"/>
 </div>
 
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moonshinerd/moonshinerd/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/moonshinerd/moonshinerd/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/moonshinerd/moonshinerd/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=100&section=footer" width="100%"/>
